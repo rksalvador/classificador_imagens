@@ -1,0 +1,24 @@
+item {
+  id: 1
+  name: 'BCXMLF-01'
+}
+
+item {
+  id: 2
+  name: 'BCXMLF-10'
+}
+
+item {
+  id: 3
+  name: 'Caixa'
+}
+
+item {
+  id: 4
+  name: 'bula'
+}
+
+item {
+  id: 5
+  name: 'Contator'
+}
